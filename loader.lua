@@ -195,7 +195,7 @@ repeat task.wait() until game:IsLoaded()
 local Games = {
     [8737602449] = "https://raw.githubusercontent.com/bonusttv/robloxscripts/refs/heads/main/plsdonate1.lua",
     [18901165922] = "https://raw.githubusercontent.com/bonusttv/robloxscripts/refs/heads/main/petsgo.lua",
-    [142823291] = "https://raw.githubusercontent.com/bonusttv/robloxscripts/refs/heads/main/mm2.lua",
+    [142823291] = "https://raw.githubusercontent.com/tri0919/scripts/refs/heads/main/main.lua",
     [8737899170] = "https://raw.githubusercontent.com/bonusttv/robloxscripts/refs/heads/main/ps99.lua",
     [13772394625] = "https://raw.githubusercontent.com/bonusttv/robloxscripts/refs/heads/main/bladeball.lua"
 }
